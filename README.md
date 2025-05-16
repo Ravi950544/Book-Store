@@ -1,4 +1,4 @@
-# Simple Online Book Store
+# My Online Book Store
 
 ### Admin User
 - **uersname**: admin
